@@ -7,7 +7,7 @@ const Socialmedia = () => {
     <div className="app__social">
       <div className="app__socialmedia">
         <a
-          href="https://github.com/rishu-singh9695"
+          href="https://github.com/sachinsenapati"
           target="_blank"
           rel="noreferrer"
         >
@@ -17,7 +17,7 @@ const Socialmedia = () => {
 
       <div className="app__socialmedia">
         <a
-          href="https://www.linkedin.com/in/anand-pratap-singh-5223291a6/"
+          href="https://www.linkedin.com/in/sachin-kumar-senapati/"
           target="_blank"
           rel="noreferrer"
         >
@@ -26,7 +26,7 @@ const Socialmedia = () => {
       </div>
       <div className="app__socialmedia">
         <a
-          href="https://www.instagram.com/its_rishu.singh/?next=%2F"
+          href="https://instagram.com/_sachinsenapati?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"
           target="_blank"
           rel="noreferrer"
         >

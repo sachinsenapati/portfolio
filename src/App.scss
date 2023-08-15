@@ -111,6 +111,11 @@
   .app__socialmedia{
     margin-left:1rem ;
     margin-right:1rem ;
+    .social-icons{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
   }
    
   @media screen and (max-width:430px) {

@@ -11,7 +11,7 @@ const Socialmedia = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <FaGithub />
+          <FaGithub className="social-icons" />
         </a>
       </div>
 
@@ -21,7 +21,7 @@ const Socialmedia = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <FaLinkedinIn />
+          <FaLinkedinIn className="social-icons" />
         </a>
       </div>
       <div className="app__socialmedia">
@@ -30,7 +30,7 @@ const Socialmedia = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <BsInstagram />
+          <BsInstagram className="social-icons" />
         </a>
       </div>
     </div>
